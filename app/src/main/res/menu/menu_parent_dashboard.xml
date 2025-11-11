@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/ic_account"
+        android:title="Аккаунт"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sign_in"
+        android:icon="@drawable/ic_login"
+        android:title="Войти"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sign_out"
+        android:icon="@drawable/ic_logout"
+        android:title="Выйти из аккаунта"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="Обновить"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Настройки"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_help"
+        android:icon="@drawable/ic_help"
+        android:title="Помощь"
+        app:showAsAction="never" />
+
+</menu>

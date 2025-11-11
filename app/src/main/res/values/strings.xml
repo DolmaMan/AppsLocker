@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">App Locker</string>
+
+    <!-- Роли -->
+    <string name="role_selection_title">Выберите режим устройства</string>
+    <string name="parent_role">Родительский режим</string>
+    <string name="child_role">Детский режим</string>
+    <string name="parent_description">Создание семейной группы, управление устройствами, настройка ограничений</string>
+    <string name="child_description">Безопасное использование, ограниченный доступ, родительский контроль</string>
+    <string name="select">Выбрать</string>
+
+    <!-- Родительский режим -->
+    <string name="parent_mode">Режим: Родительский</string>
+    <string name="generate_qr_code">Создать QR-код для связи</string>
+    <string name="dashboard">Панель управления</string>
+    <string name="device_management">Управление устройствами</string>
+    <string name="add_child_devices">Добавьте детские устройства в вашу семейную группу</string>
+
+    <!-- Детский режим -->
+    <string name="child_mode">Режим: Детский</string>
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="not_connected">Не подключено</string>
+    <string name="connected">Подключено</string>
+    <string name="parent_device">Родительское устройство</string>
+    <string name="no_parent_device">не указано</string>
+
+    <!-- QR-код -->
+    <string name="qr_code_title">QR-код для подключения</string>
+    <string name="qr_instructions">Отсканируйте этот код на детском устройстве для установки связи</string>
+    <string name="share_qr_code">Поделиться QR-кодом</string>
+    <string name="scan_instructions">Наведите камеру на QR-код</string>
+    <string name="qr_scan_success">QR-код распознан</string>
+
+    <!-- Общие -->
+    <string name="switch_role">Сменить роль</string>
+    <string name="logout">Выйти</string>
+    <string name="disconnect">Отключиться от родителя</string>
+    <string name="cancel">Отмена</string>
+    <string name="loading">Загрузка...</string>
+
+    <!-- Статусы -->
+    <string name="active">Активно</string>
+    <string name="inactive">Неактивно</string>
+    <string name="connected_devices">Подключенные устройства</string>
+    <string name="active_restrictions">Активные ограничения</string>
+
+    <!-- Действия -->
+    <string name="manage_restrictions">Управление ограничениями</string>
+    <string name="view_reports">Просмотр отчетов</string>
+    <string name="settings">Настройки</string>
+    <string name="add_device">Добавить устройство</string>
+    <string name="allowed_apps">Разрешенные приложения</string>
+    <string name="no_allowed_apps">Нет разрешенных приложений</string>
+
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>

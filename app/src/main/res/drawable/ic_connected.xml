@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Стрелка вниз -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,16l-4,-4h8z"/>
+    <!-- Стрелка вверх -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,8l4,4H8z"/>
+    <!-- Круг -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="2"
+        android:pathData="M12,22a10,10 0,1 1,0 -20a10,10 0,0 1,0 20z"/>
+</vector>
